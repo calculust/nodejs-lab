@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-lab",
+  "version": "1.0.0",
+  "description": "First NodeJS Lab",
+  "main": "server/server.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node popular-downloader.js"
+  },
+  "author": "Vishal Agarwala",
+  "license": "MIT"
+}
